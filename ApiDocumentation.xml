@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="T:WebApplication1.Controllers.ProjectsController">
+            <summary>
+            Управление данными о проектах.
+            </summary>
+        </member>
+        <member name="M:WebApplication1.Controllers.ProjectsController.GetProjects">
+            <summary>
+            Метод, возвращающий список проектов в JSON.
+            </summary>
+            <returns>IEnumerable/<Project/> как список проектов.</returns>
+        </member>
+    </members>
+</doc>
